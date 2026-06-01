@@ -4,11 +4,6 @@ An **AI-powered web application** built with **Streamlit** that recognizes handw
 
 ---
 
-## 🚀 Demo
-🔗 [Live App on Streamlit](https://handwrittenclassification07.streamlit.app/)  
-
----
-
 ## 📌 Features
 - Recognizes handwritten digits (0–9).  
 - Interactive **drawing canvas** to write digits directly.  
