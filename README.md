@@ -49,22 +49,6 @@ The model is trained on the famous **MNIST dataset**:
 
 ---
 
-## 📸 Screenshots
-### 🏠 Home Page
-<img width="1892" height="841" alt="image" src="https://github.com/user-attachments/assets/13a42a4b-7c0e-4a99-81f0-fb05d60849bd" />
-
-### ✍️ Digit Drawing & Prediction
-<img width="1895" height="833" alt="image" src="https://github.com/user-attachments/assets/3f0b09c4-d7ee-4ab2-a8ff-0b6f841cfb95" />
-
-### ✍️ Digit Drawing & Prediction
-<img width="1889" height="845" alt="image" src="https://github.com/user-attachments/assets/22cf3b7f-eeee-42ca-9008-8318ee51830d" />
-
-
-### ✍️ Digit Drawing & Prediction
-<img width="1896" height="826" alt="image" src="https://github.com/user-attachments/assets/9107d2ec-f610-49a2-b63c-f35971a89251" />
-
----
-
 ## ❤️ Acknowledgements
 - [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)  
 - [Streamlit Documentation](https://docs.streamlit.io/)  
