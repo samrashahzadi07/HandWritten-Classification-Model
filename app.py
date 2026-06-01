@@ -32,10 +32,9 @@ You can draw a digit (0-9) or upload an image and the model will predict it for 
 
 st.sidebar.title("👤 About Me")
 st.sidebar.markdown("""
-**Mirza Yasir Abdullah Baig**  
-- [LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)  
-- [GitHub](https://github.com/mirzayasirabdullahbaig07)  
-- [Kaggle](https://www.kaggle.com/code/mirzayasirabdullah07)  
+**Samra Shahzadi**   
+- [GitHub](https://github.com/samrashahzadi07)  
+- [Kaggle](https://www.kaggle.com/code/samraijaz)  
 """)
 
 # ----------------------------
