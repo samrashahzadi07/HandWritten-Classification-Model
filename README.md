@@ -7,9 +7,6 @@ An **AI-powered web application** built with **Streamlit** that recognizes handw
 ## 🚀 Demo
 🔗 [Live App on Streamlit](https://handwrittenclassification07.streamlit.app/)  
 
-## 🚀 Video Demo
-[https://github.com/user-attachments/assets/a6ac9e7f-3034-4afc-87ce-de7f4b273bdd](https://github.com/user-attachments/assets/a6ac9e7f-3034-4afc-87ce-de7f4b273bdd)
-
 ---
 
 ## 📌 Features
@@ -65,15 +62,6 @@ The model is trained on the famous **MNIST dataset**:
 
 ### ✍️ Digit Drawing & Prediction
 <img width="1896" height="826" alt="image" src="https://github.com/user-attachments/assets/9107d2ec-f610-49a2-b63c-f35971a89251" />
-
----
-
-## 👨‍💻 Author
-**Mirza Yasir Abdullah Baig**  
-
-- 🌐 [Kaggle](https://www.kaggle.com/mirzayasirabdullah07)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)  
-- 💻 [GitHub](https://github.com/mirzayasirabdullahbaig07)  
 
 ---
 
